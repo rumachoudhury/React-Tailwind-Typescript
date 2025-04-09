@@ -32,7 +32,7 @@ function App() {
     <main className=" bg-gray-100 py-6 overflow-y-auto">
       <div className="w-[500px] min-h-screen   bg-gradient-to-r from-purple-400 to-pink-400 shadow-md rounded-lg p-5 mx-auto">
         <h1 className="text-5xl text-white font-bold text-center py-6">
-          My Todo App
+          Todo App
         </h1>
         <div className="max-w-4xl mx-auto text-center">
           {/* <AddTodoForm onAddTodo={handleAddTodo} /> */}
